@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :VIMALA SAHANA W
-Roll no :212223040241
-Date of experiment :22-08-2024
+Name :VIMALA SAHANA W\n
+Roll no :212223040241\n
+Date of experiment :22-08-2024\n
 
 
 
